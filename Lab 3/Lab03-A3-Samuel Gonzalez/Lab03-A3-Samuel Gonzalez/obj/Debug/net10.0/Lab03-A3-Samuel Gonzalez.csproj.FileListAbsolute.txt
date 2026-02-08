@@ -1,0 +1,15 @@
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\obj\Debug\net10.0\Lab03-A3-Samuel Gonzalez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\obj\Debug\net10.0\Lab03-A3-Samuel Gonzalez.AssemblyInfoInputs.cache
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\obj\Debug\net10.0\Lab03-A3-Samuel Gonzalez.AssemblyInfo.cs
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\obj\Debug\net10.0\Lab03-A3-Samuel Gonzalez.csproj.CoreCompileInputs.cache
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\obj\Debug\net10.0\Lab03-A3-Samuel Gonzalez.sourcelink.json
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\bin\Debug\net10.0\Lab03-A3-Samuel Gonzalez.exe
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\bin\Debug\net10.0\Lab03-A3-Samuel Gonzalez.deps.json
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\bin\Debug\net10.0\Lab03-A3-Samuel Gonzalez.runtimeconfig.json
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\bin\Debug\net10.0\Lab03-A3-Samuel Gonzalez.dll
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\bin\Debug\net10.0\Lab03-A3-Samuel Gonzalez.pdb
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\obj\Debug\net10.0\Lab03-A3-Samuel Gonzalez.dll
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\obj\Debug\net10.0\refint\Lab03-A3-Samuel Gonzalez.dll
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\obj\Debug\net10.0\Lab03-A3-Samuel Gonzalez.pdb
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\obj\Debug\net10.0\Lab03-A3-Samuel Gonzalez.genruntimeconfig.cache
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab03-A3-Samuel Gonzalez\Lab03-A3-Samuel Gonzalez\obj\Debug\net10.0\ref\Lab03-A3-Samuel Gonzalez.dll
