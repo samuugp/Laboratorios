@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\famgo\\Desktop\\Laboratorios\\Lab4 SAGP 1347026\\Lab4 SAGP 1347026\\Lab4 SAGP 1347026.csproj": {}
+    "C:\\Users\\famgo\\Desktop\\Laboratorios\\Lab_5 SAGP 1347026\\Lab_5 SAGP 1347026\\Lab_5 SAGP 1347026.csproj": {}
   },
   "projects": {
-    "C:\\Users\\famgo\\Desktop\\Laboratorios\\Lab4 SAGP 1347026\\Lab4 SAGP 1347026\\Lab4 SAGP 1347026.csproj": {
+    "C:\\Users\\famgo\\Desktop\\Laboratorios\\Lab_5 SAGP 1347026\\Lab_5 SAGP 1347026\\Lab_5 SAGP 1347026.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\famgo\\Desktop\\Laboratorios\\Lab4 SAGP 1347026\\Lab4 SAGP 1347026\\Lab4 SAGP 1347026.csproj",
-        "projectName": "Lab4 SAGP 1347026",
-        "projectPath": "C:\\Users\\famgo\\Desktop\\Laboratorios\\Lab4 SAGP 1347026\\Lab4 SAGP 1347026\\Lab4 SAGP 1347026.csproj",
+        "projectUniqueName": "C:\\Users\\famgo\\Desktop\\Laboratorios\\Lab_5 SAGP 1347026\\Lab_5 SAGP 1347026\\Lab_5 SAGP 1347026.csproj",
+        "projectName": "Lab_5 SAGP 1347026",
+        "projectPath": "C:\\Users\\famgo\\Desktop\\Laboratorios\\Lab_5 SAGP 1347026\\Lab_5 SAGP 1347026\\Lab_5 SAGP 1347026.csproj",
         "packagesPath": "C:\\Users\\famgo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\famgo\\Desktop\\Laboratorios\\Lab4 SAGP 1347026\\Lab4 SAGP 1347026\\obj\\",
+        "outputPath": "C:\\Users\\famgo\\Desktop\\Laboratorios\\Lab_5 SAGP 1347026\\Lab_5 SAGP 1347026\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\famgo\\AppData\\Roaming\\NuGet\\NuGet.Config",
