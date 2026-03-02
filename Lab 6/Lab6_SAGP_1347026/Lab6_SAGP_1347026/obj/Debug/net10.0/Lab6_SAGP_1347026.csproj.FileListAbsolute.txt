@@ -1,0 +1,15 @@
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\obj\Debug\net10.0\Lab6_SAGP_1347026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\obj\Debug\net10.0\Lab6_SAGP_1347026.AssemblyInfoInputs.cache
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\obj\Debug\net10.0\Lab6_SAGP_1347026.AssemblyInfo.cs
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\obj\Debug\net10.0\Lab6_SAGP_1347026.csproj.CoreCompileInputs.cache
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\obj\Debug\net10.0\Lab6_SAGP_1347026.sourcelink.json
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\bin\Debug\net10.0\Lab6_SAGP_1347026.exe
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\bin\Debug\net10.0\Lab6_SAGP_1347026.deps.json
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\bin\Debug\net10.0\Lab6_SAGP_1347026.runtimeconfig.json
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\bin\Debug\net10.0\Lab6_SAGP_1347026.dll
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\bin\Debug\net10.0\Lab6_SAGP_1347026.pdb
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\obj\Debug\net10.0\Lab6_SAGP_1347026.dll
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\obj\Debug\net10.0\refint\Lab6_SAGP_1347026.dll
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\obj\Debug\net10.0\Lab6_SAGP_1347026.pdb
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\obj\Debug\net10.0\Lab6_SAGP_1347026.genruntimeconfig.cache
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Lab6_SAGP_1347026\Lab6_SAGP_1347026\obj\Debug\net10.0\ref\Lab6_SAGP_1347026.dll
