@@ -1,0 +1,15 @@
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\bin\Debug\net10.0\Proyecto Lab_SAGP_DAAA_.exe
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\bin\Debug\net10.0\Proyecto Lab_SAGP_DAAA_.deps.json
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\bin\Debug\net10.0\Proyecto Lab_SAGP_DAAA_.runtimeconfig.json
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\bin\Debug\net10.0\Proyecto Lab_SAGP_DAAA_.dll
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\bin\Debug\net10.0\Proyecto Lab_SAGP_DAAA_.pdb
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\obj\Debug\net10.0\Proyecto Lab_SAGP_DAAA_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\obj\Debug\net10.0\Proyecto Lab_SAGP_DAAA_.AssemblyInfoInputs.cache
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\obj\Debug\net10.0\Proyecto Lab_SAGP_DAAA_.AssemblyInfo.cs
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\obj\Debug\net10.0\Proyecto Lab_SAGP_DAAA_.csproj.CoreCompileInputs.cache
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\obj\Debug\net10.0\Proyecto Lab_SAGP_DAAA_.sourcelink.json
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\obj\Debug\net10.0\Proyecto Lab_SAGP_DAAA_.dll
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\obj\Debug\net10.0\refint\Proyecto Lab_SAGP_DAAA_.dll
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\obj\Debug\net10.0\Proyecto Lab_SAGP_DAAA_.pdb
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\obj\Debug\net10.0\Proyecto Lab_SAGP_DAAA_.genruntimeconfig.cache
+C:\Users\famgo\Desktop\Laboratorios\Lab 3\Proyecto Lab_SAGP_DAAA_\Proyecto Lab_SAGP_DAAA_\obj\Debug\net10.0\ref\Proyecto Lab_SAGP_DAAA_.dll
