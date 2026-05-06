@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\famgo\\Desktop\\Laboratorios\\Lab 10\\L10_SAGP_1347026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB2867B-BEA0-ED38-5C8E-66B3BC016EF0}|L10_SAGP_1347026\\L10_SAGP_1347026.csproj|c:\\users\\famgo\\desktop\\laboratorios\\lab 10\\l10_sagp_1347026\\l10_sagp_1347026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB2867B-BEA0-ED38-5C8E-66B3BC016EF0}|L10_SAGP_1347026\\L10_SAGP_1347026.csproj|solutionrelative:l10_sagp_1347026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\famgo\\Desktop\\Laboratorios\\Lab 10\\L10_SAGP_1347026\\L10_SAGP_1347026\\Program.cs",
+              "RelativeDocumentMoniker": "L10_SAGP_1347026\\Program.cs",
+              "ToolTip": "C:\\Users\\famgo\\Desktop\\Laboratorios\\Lab 10\\L10_SAGP_1347026\\L10_SAGP_1347026\\Program.cs",
+              "RelativeToolTip": "L10_SAGP_1347026\\Program.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAwwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:13:16.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
