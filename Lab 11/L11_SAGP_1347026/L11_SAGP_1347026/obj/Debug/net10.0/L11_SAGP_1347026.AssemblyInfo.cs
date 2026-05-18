@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L11_SAGP_1347026")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2b3c8ab59b4848334bf69a5c2fc2906603de033")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3465536bc1e4b4c2774f7efa035fb6bd8453ba0")]
 [assembly: System.Reflection.AssemblyProductAttribute("L11_SAGP_1347026")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L11_SAGP_1347026")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
