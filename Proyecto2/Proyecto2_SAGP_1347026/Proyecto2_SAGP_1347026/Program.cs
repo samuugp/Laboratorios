@@ -2,7 +2,7 @@
 
 class Parcela
 {
-    // Atributos de la parcela con valores iniciales
+    // Atributos parcela 
     public string tipoCultivo = "Vacía";
     public int crecimientoActual = 0;
     public int crecimientoMax = 0;
@@ -24,7 +24,7 @@ class Program
         int filas = 0;
         int columnas = 0;
 
-        // Variables de estadísticas para el Reporte Final 
+        // Variables del reporte Final 
         int totalRiegos = 0;
         int cosechasPapa = 0;
         int cosechasTomate = 0;
@@ -56,7 +56,7 @@ class Program
 
         int opcion = 0;
 
-        // Ciclo principal controlado por meses, dinero y opción salir 
+        // Ciclo principal //Menú 
         do
         {
             Console.Clear();
@@ -124,7 +124,7 @@ class Program
                     {
                         Console.WriteLine("Error: Esta parcela ya fue regada en el mes actual.");
                     }
-                    else if (dinero < 40) // Validación de fondos para el costo de Q40
+                    else if (dinero < 40) 
                     {
                         Console.WriteLine("Error: No hay suficiente dinero para cubrir el costo de riego (Q40).");
                     }
@@ -161,13 +161,13 @@ class Program
                             Console.WriteLine("\n--- AVANZANDO DE MES ---");
                             mesesRestantes--;
 
-                            // 1. Pago de planilla de empleados : 77]
+                            // 1. Pago de empleados
                             double costoPlanilla = empleados * sueldo;
                             dinero -= costoPlanilla;
                             egresos += costoPlanilla;
                             Console.WriteLine("[EGRESO] Se pagaron Q"+costoPlanilla+" en sueldos de empleados.");
 
-                            // 2. Procesar crecimiento y cosechas por parcela : 78]
+                            // 2. Crecimiento y cosechas por parcela 
                             for (int i = 0; i < filas; i++)
                             {
                                 for (int j = 0; j < columnas; j++)
@@ -217,10 +217,10 @@ class Program
                             Console.ReadKey();
                         }
 
-                        // El ciclo se detiene si el usuario sale, se acaba el tiempo o el dinero cae a 0 o menos
+                        // El ciclo se detiene si el usuario sale, se acaba el tiempo o el dinero cae a 0 
         } while (opcion != 5 && dinero > 0 && mesesRestantes > 0) ;
 
-                    //  REPORTE FINAL OBLIGATORIO 
+                    //  REPORTE FINAL  
                     Console.Clear();
                     Console.WriteLine("                 REPORTE FINAL                    ");
         Console.WriteLine("==================================================");
