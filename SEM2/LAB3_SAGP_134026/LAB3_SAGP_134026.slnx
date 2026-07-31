@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LAB3_SAGP_134026/LAB3_SAGP_134026.vcxproj" />
+</Solution>
